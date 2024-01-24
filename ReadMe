@@ -1,7 +1,7 @@
 Code for "SoftmaxU"
 Training dataset is :
-COIL20
-USPS
+COIL20: the training classes are 1 2 5 10 
+USPS: the training classes are 2 7 6 9
 BALLET
 YaleB
 MNIST
