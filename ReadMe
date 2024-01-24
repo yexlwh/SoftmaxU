@@ -1,1 +1,7 @@
 Code for "SoftmaxU"
+Training dataset is :
+COIL20
+USPS
+BALLET
+YaleB
+MNIST
